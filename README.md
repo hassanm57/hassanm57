@@ -19,8 +19,7 @@
 - 🧑‍💻 Skilled in **Python, Java, Web Development (MERN/Flask)**  
 - 🎨 Creative side: **Video Editing (Premiere Pro, After Effects)**  
 - 📍 Based in **Islamabad, Pakistan**  
-- ⚡ Fun fact: I love combining **logic + creativity** (coding + editing)  
-- 🎵 Current vibe: Coding with **lofi beats & coffee ☕**  
+- ⚡ Fun fact: I love combining **logic + creativity** (coding + editing)    
 
 ---
 
@@ -37,12 +36,12 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hassanm57&theme=algolia&margin-w=15&margin-h=15"/> </div> <div align="center"> <a href="https://github.com/hassanm57"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hassanm57&theme=tokyonight&hide_border=true" /> </a> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hassanm57&show_icons=true&theme=radical&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanm57&layout=compact&theme=radical&hide_border=true"/> </div>
 
-<h2 align="center">🌙</h2>  
+<h2 align="center">current</h2>  
 
 <p align="center">  
-  <img height="220px" alt="Alone at computer" src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" />  
-  <img height="220px" alt="Sad rain" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" />  
-  <img height="220px" alt="Thinking alone" src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" />  
+  <img height="220px" alt="carm" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlrM2t5OHQwb216cHd2Yjc2dHRkZDNsaWx3Nzl2Y2Q4a3MyMzllbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/thg69nLS3E0TPuxKDf/giphy.gif" />  
+  <img height="220px" alt="carmer" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhrNmVxbmFjYzRuZmc4dGRmZjc2enB4MXlpMmo3YTd3cHhwcmxmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tlx81QQVPk2OoPSAfW/giphy.gif" />  
+  <img height="220px" alt="Thinking alone" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWx6ajF6dnZ1ZTVsbW9mNjJzbG0xZWRpbzk2eGl2em43bXh3MnB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L4gmJAfCg8ZdYzOTQe/giphy.gif" />  
 </p>  
 
 <div align="center">  
