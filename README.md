@@ -18,7 +18,7 @@
 - 💻 Passionate about **AI, Machine Learning, and Computer Vision**  
 - 🧑‍💻 Skilled in **Python, Java, Web Development (MERN/Flask)**  
 - 🎨 Creative side: **Video Editing (Premiere Pro, After Effects)**  
-- 📍 Based in **Islamabad, Pakistan**  
+- 📍 From **Karachi, Pakistan**  
 - ⚡ Fun fact: I love combining **logic + creativity** (coding + editing)    
 
 ---
