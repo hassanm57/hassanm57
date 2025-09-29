@@ -39,7 +39,7 @@
 <h2 align="center">current..</h2>  
 
 <p align="center">  
-  <img height="220px" alt="carm" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlrM2t5OHQwb216cHd2Yjc2dHRkZDNsaWx3Nzl2Y2Q4a3MyMzllbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/thg69nLS3E0TPuxKDf/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhvemdzZDFpYmNyYXNybXoydnV4bWozNzVqbnQ0ZmU0Y2tybG41eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RVZaqfiar29oyKhR1C/giphy.gif)" />  
+  <img height="220px" alt="carm" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlrM2t5OHQwb216cHd2Yjc2dHRkZDNsaWx3Nzl2Y2Q4a3MyMzllbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/thg69nLS3E0TPuxKDf/giphy.gif"/> 
   <img height="220px" alt="carmer" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhrNmVxbmFjYzRuZmc4dGRmZjc2enB4MXlpMmo3YTd3cHhwcmxmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tlx81QQVPk2OoPSAfW/giphy.gif" />  
   <img height="220px" alt="Thinking alone" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWx6ajF6dnZ1ZTVsbW9mNjJzbG0xZWRpbzk2eGl2em43bXh3MnB2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L4gmJAfCg8ZdYzOTQe/giphy.gif" />  
 </p>  
