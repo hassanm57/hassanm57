@@ -33,33 +33,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```js
-class HassanMansoor {
-  constructor() {
-    this.name = "Hassan Mansoor";
-    this.role = "CS Student | AI & ML Enthusiast";
-    this.university = "NUST, Islamabad";
-    this.skills = ["Python", "Java", "C++", "JavaScript", "React", "Flask"];
-    this.tools = ["Git", "Docker", "Figma", "Premiere Pro", "After Effects"];
-  }
-
-  codeStyle() {
-    return "Clean, scalable & creative ✨";
-  }
-
-  hobbies() {
-    return ["Coding 👨‍💻", "Gym 🏋️", "Video Editing 🎬", "Chess ♟️"];
-  }
-}
-```
 <h2 align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Languages & Tools &nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h2> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40"/> </p>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hassanm57&theme=algolia&margin-w=15&margin-h=15"/> </div> <div align="center"> <a href="https://github.com/hassanm57"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hassanm57&theme=tokyonight&hide_border=true" /> </a> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hassanm57&show_icons=true&theme=radical&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanm57&layout=compact&theme=radical&hide_border=true"/> </div>
 
-🐍 Watch my contributions get eaten by a snake!
-<div align="center"> <img src="https://github.com/hassanm57/hassanm57/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /> </div>
+<h2 align="center">🌙</h2>  
 
+<p align="center">  
+  <img height="220px" alt="Alone at computer" src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" />  
+  <img height="220px" alt="Sad rain" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" />  
+  <img height="220px" alt="Thinking alone" src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" />  
+</p>  
 
-<h2 align="center">⚡ Fun Zone ⚡</h2> <p align="center"> <img height="220px" alt="Coding Meme" src="https://media.giphy.com/media/4LlmVhHnMvEE0P5KXD/giphy.gif" /> <img height="220px" alt="Chess" src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" /> <img height="220px" alt="Workout" src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" /> </p>
+<div align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>  
+</div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/> </div>
