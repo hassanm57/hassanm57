@@ -16,15 +16,15 @@
 
 - 🎓 **Senior Year Computer Science Student** @ NUST  
 - 💻 Passionate about **AI, Machine Learning, and Computer Vision**  
-- 🧑‍💻 Skilled in **Python, Java, Web Development (MERN/Flask)**  
-- 🎨 Creative side: **Video Editing (Premiere Pro, After Effects)**  
+- 🧑‍💻 Skilled in **Python, JavaScript, REACT, Deep Learning :D**  
+- 🎨 Creative side: **Video Editing and driving Formula cars**  
 - 📍 From **Karachi, Pakistan**  
-- ⚡ Fun fact: I love combining **logic + creativity** (coding + editing)    
+- ⚡ Fun fact: I love travelling and driving fast cars.
 
 ---
 
 📫 **Connect?:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hassan-mansoor1569)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassan-mansoor-a9274a253/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/hassanm57)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/hassn_mnsr/)  
 
