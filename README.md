@@ -64,7 +64,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ffmpeg/ffmpeg-original.svg" alt="ffmpeg" width="40"/> 
 </p>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hassanm57&theme=algolia&margin-w=15&margin-h=15"/> </div> <div align="center"> <a href="https://github.com/hassanm57"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hassanm57&theme=tokyonight&hide_border=true" /> </a> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hassanm57&show_icons=true&theme=radical&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanm57&layout=compact&theme=radical&hide_border=true"/> </div>
