@@ -65,22 +65,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40"/> 
 </p>
 
-<div align="center">
-
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hassanm57&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-  <br/><br/>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanm57&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanm57&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hassanm57&theme=algolia&margin-w=15&margin-h=15"/> </div> <div align="center"> <a href="https://github.com/hassanm57"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hassanm57&theme=tokyonight&hide_border=true" /> </a> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hassanm57&show_icons=true&theme=radical&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanm57&layout=compact&theme=radical&hide_border=true"/> </div>
 
 <h2 align="center">current..</h2>  
 
