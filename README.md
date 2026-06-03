@@ -36,7 +36,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Languages/Tools &nbsp;
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> 
 </h2> 
-
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/> 
@@ -62,7 +61,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="langchain" width="40" style="filter: invert(1);"/>
+<img src="https://avatars.githubusercontent.com/u/139558948?s=200&v=4" alt="langgraph" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" alt="qdrant" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="openai" width="40" style="filter: invert(1);"/>
 </p>
 
 <div align="center">  </div> <div align="center"> <a href="https://github.com/hassanm57"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hassanm57&theme=tokyonight&hide_border=true" /> </a> </div> <div align="center">  </div> <div align="center">  </div>
