@@ -15,9 +15,9 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; me?
 
 - 🎓 **B.S. Computer Science Student (2022–2026)** @ NUST  
-- 💻 Passionate about **AI, Machine Learning, Computer Vision, and Web Development**  
-- 🧑‍💻 Skilled in **Python, JavaScript/TypeScript, React, Deep Learning, OpenCV, PyTorch**  
-- 🎨 Creative side: **Video Editing, 3D Modeling, and Driving Formula Cars**  
+- 💻 Fluent in **LLM Systems, AI, ML, Computer Vision, and Web App Development**  
+- 🧑‍💻 Skills **Python, JavaScript/TypeScript, LangChain, LangGraph, React, Deep Learning, OpenCV, PyTorch**  
+- 🎨 Creativity: **Video Editing, 3D Modeling, and Driving Formula Cars**  
 - 📍 From **Islamabad, Pakistan**  
 
 
